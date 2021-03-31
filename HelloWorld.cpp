@@ -8,6 +8,7 @@ using namespace std;
 int main()
 {
     cout << "Hello World!\n";
+    cout << "Git\n";
 
     system("pause>0");
 }
